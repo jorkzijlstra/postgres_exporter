@@ -1,4 +1,4 @@
-name: docker-noip-buildx-release
+name: docker-postgres-exporter-buildx-release
 
 on:
   push:
