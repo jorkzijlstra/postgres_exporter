@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM debian:latest
 RUN useradd -u 20001 postgres_exporter
 
 FROM scratch
